@@ -1,4 +1,13 @@
 # ninja log v5
-5	1652	7360022060120135	CMakeFiles/program_files.dir/main.cpp.obj	2ab4e4764b6c7948
-1652	1901	7360022062379991	program_files.exe	5e16e925f0fccdd2
-2	148	7360035416380822	build.ninja	2de9b69efe86c607
+3	1902	7363660294066184	CMakeFiles/program_files.dir/main.cpp.obj	59c2abd48a221a76
+1	332	7579686957162786	build.ninja	2a045aa8d8594f3e
+1903	3297	7363660307952149	program_files.exe	c68340b8b41ca7
+9	2811	7363503360122784	CMakeFiles/program_files.dir/src/collection/validator/InputValidator.cpp.obj	814bd317d9031b33
+11	1040	7363578548227085	CMakeFiles/program_files.dir/src/filesystem/FileReader.cpp.obj	bd1815252b091f29
+6	295	7363579985771225	CMakeFiles/program_files.dir/src/authentication/Participant.cpp.obj	9426258da1627e57
+20	408	7363504378431492	CMakeFiles/program_files.dir/src/utils/Datetime.cpp.obj	43f5b392d6431705
+15	480	7363578542632094	CMakeFiles/program_files.dir/src/authentication/Login.cpp.obj	59150828b69ae39e
+25	481	7363504379155320	CMakeFiles/program_files.dir/src/utils/Structures.cpp.obj	989b27ebf58d6a52
+33	574	7363563497097891	CMakeFiles/program_files.dir/src/filesystem/FileWriter.cpp.obj	a6fcc1e50a318ddc
+11	816	7363565901309726	CMakeFiles/program_files.dir/src/collection/InputCollector.cpp.obj	9154937b4eaed5e2
+9	359	7363529471791430	CMakeFiles/program_files.dir/data/Config.cpp.obj	aa0e239481ab2ccc

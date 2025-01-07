@@ -1,0 +1,186 @@
+
+Current Waste Levels (%): 
+Location 1: 50%
+Location 2: 10%
+Location 3: 99%
+Location 4: 96%
+Location 5: 71%
+Location 6: 96%
+Location 7: 15%
+
+Current Waste Mass (KG): 
+Location 1: 250kg
+Location 2: 50kg
+Location 3: 495kg
+Location 4: 480kg
+Location 5: 355kg
+Location 6: 480kg
+Location 7: 75kg
+
+Travel Paths:
+---------- Location 1 ----------
+Distance from waste station (km): 3
+Path: Waste Station -> Location 1
+Weather: Sunny
+Duration per way (hours): 0.3
+Cost per way (RM): 7.5
+Fuel consumption per way (liters): 6
+
+
+---------- Location 3 ----------
+Distance from waste station (km): 9
+Path: Waste Station -> Location 1 -> Location 3
+Weather: Sunny
+Duration per way (hours): 0.9
+Cost per way (RM): 22.5
+Fuel consumption per way (liters): 18
+
+
+---------- Location 4 ----------
+Distance from waste station (km): 18
+Path: Waste Station -> Location 1 -> Location 3 -> Location 2 -> Location 4
+Weather: Sunny
+Duration per way (hours): 1.8
+Cost per way (RM): 45
+Fuel consumption per way (liters): 36
+
+
+---------- Location 5 ----------
+Distance from waste station (km): 29
+Path: Waste Station -> Location 1 -> Location 3 -> Location 2 -> Location 4 -> Location 3 -> Location 6 -> Location 5
+Weather: Cloudy
+Duration per way (hours): 5.8
+Cost per way (RM): 72.5
+Fuel consumption per way (liters): 58
+
+
+---------- Location 6 ----------
+Distance from waste station (km): 22
+Path: Waste Station -> Location 1 -> Location 3 -> Location 2 -> Location 4 -> Location 3 -> Location 6
+Weather: Cloudy
+Duration per way (hours): 4.4
+Cost per way (RM): 55
+Fuel consumption per way (liters): 44
+
+
+Time constraint: 12 hours
+Locations available for visiting:
+0. Location 1
+1. Location 3
+2. Location 4
+3. Location 5
+
+Driver Wage for all visiting locations (RM): 240
+Travel Paths:
+---------- Location 1 ----------
+Distance from waste station (km): 3
+Path: Waste Station -> Location 1
+Weather: Sunny
+Duration per way (hours): 0.3
+Cost per way (RM): 7.5
+Fuel consumption per way (liters): 6
+
+---------- Location 3 ----------
+Distance from waste station (km): 9
+Path: Waste Station -> Location 1 -> Location 3
+Weather: Sunny
+Duration per way (hours): 0.9
+Cost per way (RM): 22.5
+Fuel consumption per way (liters): 18
+
+---------- Location 4 ----------
+Distance from waste station (km): 11
+Path: Waste Station -> Location 1 -> Location 3 -> Location 4
+Weather: Sunny
+Duration per way (hours): 1.1
+Cost per way (RM): 27.5
+Fuel consumption per way (liters): 22
+
+---------- Location 5 ----------
+Note: Location not visited due to distance exceeding 11km
+---------- Location 6 ----------
+Distance from waste station (km): 7
+Path: Waste Station -> Location 7 -> Location 6
+Weather: Cloudy
+Duration per way (hours): 1.4
+Cost per way (RM): 17.5
+Fuel consumption per way (liters): 14
+
+
+Total Distance for Visited Locations (km): 30
+Total Cost (RM): 150
+Total Duration (hrs): 7.4
+Total Fuel Consumption (liters): 120
+Total percentage of waste collected from available locations (%): 341
+Total Waste Collected (kg): 1705
+
+Driver Wage for all visiting locations (RM): 148
+Travel Paths:
+---------- Location 1 ----------
+Distance from waste station (km): 3
+Path: Waste Station -> Location 1
+Weather: Sunny
+Duration per way (hours): 0.3
+Cost per way (RM): 7.5
+Fuel consumption per way (liters): 6
+
+---------- Location 3 ----------
+Distance from waste station (km): 9
+Path: Waste Station -> Location 1 -> Location 3
+Weather: Sunny
+Duration per way (hours): 0.9
+Cost per way (RM): 22.5
+Fuel consumption per way (liters): 18
+
+---------- Location 6 ----------
+Distance from waste station (km): 11
+Path: Waste Station -> Location 1 -> Location 3 -> Location 6
+Weather: Cloudy
+Duration per way (hours): 2.2
+Cost per way (RM): 27.5
+Fuel consumption per way (liters): 22
+
+
+Total Distance for Visited Locations (km): 23
+Total Cost (RM): 115
+Total Duration (hrs): 6.8
+Total Fuel Consumption (liters): 92
+Total percentage of waste collected from available locations (%): 245
+Total Waste Collected (kg): 1225
+
+Driver Wage for all visiting locations (RM): 136
+Travel Paths:
+---------- Location 3 ----------
+Distance from waste station (km): 9
+Path: Waste Station -> Location 1 -> Location 3
+Weather: Sunny
+Duration per way (hours): 0.9
+Cost per way (RM): 22.5
+Fuel consumption per way (liters): 18
+
+---------- Location 4 ----------
+Distance from waste station (km): 11
+Path: Waste Station -> Location 1 -> Location 3 -> Location 4
+Weather: Sunny
+Duration per way (hours): 1.1
+Cost per way (RM): 27.5
+Fuel consumption per way (liters): 22
+
+---------- Location 5 ----------
+Note: Location not visited due to distance exceeding 12km---------- Location 6 ----------
+Distance from waste station (km): 7
+Path: Waste Station -> Location 7 -> Location 6
+Weather: Cloudy
+Duration per way (hours): 1.4
+Cost per way (RM): 17.5
+Fuel consumption per way (liters): 14
+
+
+Total Distance for Visited Locations (km): 27
+Total Cost (RM): 135
+Total Duration (hrs): 6.8
+Total Fuel Consumption (liters): 108
+Total percentage of waste collected from available locations (%): 291
+Total Waste Collected (kg): 1455
+
+Driver Wage for all visiting locations (RM): 136

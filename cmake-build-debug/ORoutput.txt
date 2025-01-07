@@ -1,48 +1,21 @@
---------------------------------------------
-Optimized Route - Floyd Warshall Algorithm
---------------------------------------------
-
-Details of Optimized Route
-1. Waste at location must be >= 50% to be visited.
-2. Distance from Waste Station to location must be <= 11km
-3. Duration taken for all visiting locations must be within 8 hours.
-
-Current Waste Levels (%): 
-Location 1: 19%
-Location 2: 95%
-Location 3: 58%
-Location 4: 100%
-Location 5: 18%
-Location 6: 62%
-Location 7: 20%
-
-Current Waste Mass (KG): 
-Location 1: 95kg
-Location 2: 475kg
-Location 3: 290kg
-Location 4: 500kg
-Location 5: 90kg
-Location 6: 310kg
-Location 7: 100kg
-
 Travel Paths:
+---------- Location 1 ----------
+Distance from waste station (km): 3
+Path: Waste Station -> Location 1
+Weather: Flooding
+Duration per way (hours): 1.2
+Cost per way (RM): 7.5
+Fuel consumption per way (liters): 6
+
 ---------- Location 2 ----------
 Note: Location not visited due to distance exceeding 11km
 ---------- Location 3 ----------
 Distance from waste station (km): 9
 Path: Waste Station -> Location 1 -> Location 3
-Weather: Cloudy
-Duration per way (hours): 1.8
+Weather: Flooding
+Duration per way (hours): 3.6
 Cost per way (RM): 22.5
 Fuel consumption per way (liters): 18
-
----------- Location 4 ----------
-Distance from waste station (km): 11
-Path: Waste Station -> Location 1 -> Location 3 -> Location 4
-Weather: Rainy
-Duration per way (hours): 3.3
-Cost per way (RM): 27.5
-Fuel consumption per way (liters): 22
 
 ---------- Location 6 ----------
 Distance from waste station (km): 7
@@ -54,15 +27,15 @@ Fuel consumption per way (liters): 14
 
 Time constraint: 8 hours
 Locations available for visiting:
+Location 1
 Location 3
-Location 4
 Location 6
 
 Driver Wage for all visiting locations (RM): 160
 
-Total Distance for Visited Locations (km): 27
-Total Cost (RM): 135
-Total Duration (hrs): 15.8
-Total Fuel Consumption (liters): 108
-Total percentage of waste collected from available locations (%): 220
-Total Waste Collected (kg): 1100
+Total Distance for Visited Locations (km): 19
+Total Cost (RM): 95
+Total Duration (hrs): 15.2
+Total Fuel Consumption (liters): 76
+Total percentage of waste collected from available locations (%): 230
+Total Waste Collected (kg): 1150
